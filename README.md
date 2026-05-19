@@ -1,4 +1,4 @@
-# Characterizing Real-World Bugs in Tile Programs for Automated Bug Detection
+# Characterizing Real-World Bugs in Tile Programs for Automated Bug Detection [ISSTA 2026]
 
 This is an academic paper project page template.
 
